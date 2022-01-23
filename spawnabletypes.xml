@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabltypes>
+<!-- ERA Mumias LOOT -->
+    <type name="Era_Zeombies_MumiaSlowZmb">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="Era_Zombies_MumiaSlowZmb_medium">
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="Era_Zombies_MumiaSlowZmb_hard">
+        <cargo preset="toolsMedic" />
+    </type>
+<!-- END ERA Mumias LOOT -->
+</spawnabltypes>   
