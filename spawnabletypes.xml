@@ -11,4 +11,42 @@
         <cargo preset="toolsMedic" />
     </type>
 <!-- END ERA Mumias LOOT -->
+<!-- ERA Zombies Zubastick -->
+    <type name="Era_Zombies_Zubastik1">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik1_medium">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik1_hard">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik2">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik2_medium">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik2_hard">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik3">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik3_medium">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+    <type name="Era_Zombies_Zubastik3_hard">
+        <cargo preset="toolsHunter" />
+        <cargo preset="foodVillage" />
+    </type>
+<!-- END ERA Zombies Zubastick -->
 </spawnabltypes>   
