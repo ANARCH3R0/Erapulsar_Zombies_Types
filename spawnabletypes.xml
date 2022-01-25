@@ -50,16 +50,16 @@
     </type>
 <!-- END ERA Zombies Zubastick -->
 <!-- ERA Zombies Feeders -->
-	<type name="Era_Zombies_feeder">
-		<cargo preset="foodHermit" />
-	</type>
-	<type name="Era_Zombies_feeder_MEDIUM">
-		<cargo preset="foodHermit" />
-		<cargo preset="toolsMedic" />
-	</type>
-	<type name="Era_Zombies_feeder_HARD">
-		<cargo preset="foodHermit" />
-		<cargo preset="toolsMedic" />
-	</type>
+    <type name="Era_Zombies_feeder">
+        <cargo preset="foodHermit" />
+    </type>
+    <type name="Era_Zombies_feeder_MEDIUM">
+	<cargo preset="foodHermit" />
+        <cargo preset="toolsMedic" />
+    </type>
+    <type name="Era_Zombies_feeder_HARD">
+        <cargo preset="foodHermit" />
+        <cargo preset="toolsMedic" />
+    </type>
 <!-- END ERA Zombies Feeders -->
 </spawnabltypes>   
